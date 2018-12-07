@@ -1,12 +1,3 @@
-package com.mbrdi.tld.AbstractedPageComponent;
-
-import com.mbrdi.tld.Pages.Base;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.regex.Pattern;
 
 /**
  * Created by kprusty on 10/18/2017.
